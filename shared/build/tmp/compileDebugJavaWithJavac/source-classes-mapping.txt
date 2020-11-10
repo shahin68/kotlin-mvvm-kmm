@@ -1,0 +1,2 @@
+com/applehealth/android/BuildConfig.java
+ com.applehealth.android.BuildConfig

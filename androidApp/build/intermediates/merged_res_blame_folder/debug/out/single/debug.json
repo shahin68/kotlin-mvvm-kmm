@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\navigation_navigation_graph_main.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\navigation\\navigation_graph_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera_filled.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_camera_filled.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mic_none.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_mic_none.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera_none.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_camera_none.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_description_filled.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_description_filled.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_volume_knub.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_volume_knub.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_videocam_filled.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_videocam_filled.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mic_filled.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_mic_filled.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_shape_oval.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\shape_oval.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_videocam_none.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_videocam_none.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_audio_recorder_fragment.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\layout\\audio_recorder_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_dot_puzzle_fragment.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\layout\\dot_puzzle_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_main_fragment.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\layout\\main_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_stop.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_stop.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_description_none.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\drawable\\ic_description_none.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

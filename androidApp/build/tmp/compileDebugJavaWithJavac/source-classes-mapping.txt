@@ -1,0 +1,10 @@
+com/applehealth/androidApp/databinding/AudioRecorderFragmentBinding.java
+ com.applehealth.androidApp.databinding.AudioRecorderFragmentBinding
+com/applehealth/androidApp/databinding/DotPuzzleFragmentBinding.java
+ com.applehealth.androidApp.databinding.DotPuzzleFragmentBinding
+com/applehealth/androidApp/BuildConfig.java
+ com.applehealth.androidApp.BuildConfig
+com/applehealth/androidApp/databinding/ActivityMainBinding.java
+ com.applehealth.androidApp.databinding.ActivityMainBinding
+com/applehealth/androidApp/databinding/MainFragmentBinding.java
+ com.applehealth.androidApp.databinding.MainFragmentBinding

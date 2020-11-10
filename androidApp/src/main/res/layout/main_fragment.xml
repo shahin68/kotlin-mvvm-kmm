@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".ui.MainActivity">
+
+    <com.applehealth.androidApp.views.volumeKnob.VolumeButton
+        android:id="@+id/main_volume_knob"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/shape_oval"
+        android:clickable="true"
+        android:elevation="10dp"
+        android:focusable="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintDimensionRatio="H,1:1"
+        app:layout_constraintEnd_toStartOf="@+id/guideline2"
+        app:layout_constraintStart_toStartOf="@+id/guideline"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.25" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.75" />
+
+    <com.applehealth.androidApp.views.switches.SwitchButton
+        android:id="@+id/main_ic_mic"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_margin="10dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toTopOf="@+id/main_volume_knob"
+        app:layout_constraintEnd_toEndOf="@+id/main_volume_knob"
+        app:layout_constraintStart_toStartOf="@+id/main_volume_knob"
+        app:srcCompat="@drawable/ic_mic_none"
+        app:srcCompatEnabled="@drawable/ic_mic_filled" />
+
+    <com.applehealth.androidApp.views.switches.SwitchButton
+        android:id="@+id/main_ic_rec"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_margin="10dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="@+id/main_volume_knob"
+        app:layout_constraintStart_toEndOf="@+id/main_volume_knob"
+        app:layout_constraintTop_toBottomOf="@+id/main_ic_mic"
+        app:srcCompat="@drawable/ic_videocam_none"
+        app:srcCompatEnabled="@drawable/ic_videocam_filled" />
+
+    <com.applehealth.androidApp.views.switches.SwitchButton
+        android:id="@+id/main_ic_page"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_margin="10dp"
+        android:padding="2dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="@+id/main_volume_knob"
+        app:layout_constraintEnd_toStartOf="@+id/main_volume_knob"
+        app:layout_constraintTop_toBottomOf="@+id/main_ic_mic"
+        app:srcCompat="@drawable/ic_description_none"
+        app:srcCompatEnabled="@drawable/ic_description_filled" />
+
+    <com.applehealth.androidApp.views.switches.SwitchButton
+        android:id="@+id/main_ic_cam"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_margin="10dp"
+        android:padding="2dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toEndOf="@+id/main_volume_knob"
+        app:layout_constraintStart_toStartOf="@+id/main_volume_knob"
+        app:layout_constraintTop_toBottomOf="@+id/main_volume_knob"
+        app:srcCompat="@drawable/ic_camera_none"
+        app:srcCompatEnabled="@drawable/ic_camera_filled" />
+
+    <Button
+        android:id="@+id/main_btn_open_gallery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_background"
+        android:foreground="?attr/selectableItemBackground"
+        android:paddingHorizontal="16dp"
+        android:text="@string/open_gallery"
+        android:textColor="@android:color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/main_ic_cam" />
+</androidx.constraintlayout.widget.ConstraintLayout>

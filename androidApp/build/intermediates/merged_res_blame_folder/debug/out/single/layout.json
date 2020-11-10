@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\audio_recorder_fragment.xml",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\layout\\audio_recorder_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_fragment.xml",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\layout\\main_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dot_puzzle_fragment.xml",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\layout\\dot_puzzle_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\HealthApp\\health-app\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Android\\HealthApp\\health-app\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

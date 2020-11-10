@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false"
+    android:fitsSystemWindows="true"
+    tools:context=".ui.fragments.dotPuzzle.DotPuzzleFragment">
+
+    <com.applehealth.androidApp.views.dotPuzzleView.DotPuzzle
+        android:id="@+id/dot_puzzle_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="24dp"
+        android:clickable="true"
+        android:focusable="true" />
+
+</FrameLayout>

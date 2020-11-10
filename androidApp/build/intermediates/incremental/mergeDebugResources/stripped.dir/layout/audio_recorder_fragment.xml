@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/record_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/button_background"
+        android:foreground="?attr/selectableItemBackground"
+        android:paddingHorizontal="16dp"
+        android:text="@string/start_recording"
+        android:textColor="@android:color/black" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/play_btn"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="10dp"
+        android:foreground="?attr/selectableItemBackground"
+        app:cardBackgroundColor="@color/colorAccent"
+        app:cardCornerRadius="40dp"
+        app:cardElevation="4dp">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/play_img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="16dp"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/ic_play"
+            app:tint="@android:color/black" />
+    </androidx.cardview.widget.CardView>
+
+    <ProgressBar
+        android:id="@+id/progressbar"
+        style="@android:style/Widget.Material.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="40dp"
+        android:paddingVertical="20dp"
+        android:progressTint="@color/colorAccent" />
+</LinearLayout>

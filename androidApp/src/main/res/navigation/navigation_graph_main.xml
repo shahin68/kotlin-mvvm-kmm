@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph_main"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.applehealth.androidApp.ui.fragments.main.MainFragment"
+        android:label="Main"
+        tools:layout="@layout/main_fragment">
+        <action
+            android:id="@+id/action_mainFragment_to_dotPuzzleFragment"
+            app:destination="@id/dotPuzzleFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_audioRecorderFragment"
+            app:destination="@id/audioRecorderFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/dotPuzzleFragment"
+        android:name="com.applehealth.androidApp.ui.fragments.dotPuzzle.DotPuzzleFragment"
+        android:label="DotPuzzle"
+        tools:layout="@layout/dot_puzzle_fragment" />
+
+    <fragment
+        android:id="@+id/audioRecorderFragment"
+        android:name="com.applehealth.androidApp.ui.fragments.audioRecorder.AudioRecorderFragment"
+        android:label="AudioRecorder"
+        tools:layout="@layout/audio_recorder_fragment" />
+</navigation>
